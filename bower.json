@@ -6,7 +6,7 @@
   "main": "./index.js",
   "license": "MIT",
   "dependencies": {
-    "angular-ui-scroll": "latest",
+    "angular-ui-scroll": "1.8.2",
     "angular-ui-scrollpoint": "latest",
     "angular-ui-event": "latest",
     "angular-ui-mask": "latest",
